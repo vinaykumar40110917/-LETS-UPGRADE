@@ -1,0 +1,156 @@
+<div class="parent">
+  <div class="child">
+    <div class="card">
+
+      <img src="https://i.imgur.com/D1p6UX3.jpg" width="240" height="240"><br>
+      <p class="a-title">
+        Title
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        <a href="#">Some fake link</a>
+      </p>
+    </div>
+  </div>
+  <div class="child">
+    <div class="card">
+
+      <img src="https://i.imgur.com/D1p6UX3.jpg" width="240" height="240"><br>
+      <p class="a-title">
+        Title
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        <a href="#">Some fake link</a>
+      </p>
+    </div>
+  </div>
+  <div class="child">
+    <div class="card">
+
+      <img src="https://i.imgur.com/D1p6UX3.jpg" width="240" height="240"><br>
+      <p class="a-title">
+        Title
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        <a href="#">Some fake link</a>
+      </p>
+    </div>
+  </div>
+  <div class="child">
+    <div class="card">
+
+      <img src="https://i.imgur.com/D1p6UX3.jpg" width="240" height="240"><br>
+      <p class="a-title">
+        Title
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        <a href="#">Some fake link</a>
+      </p>
+    </div>
+  </div>
+  <div class="child">
+    <div class="card">
+
+      <img src="https://i.imgur.com/D1p6UX3.jpg" width="240" height="240"><br>
+      <p class="a-title">
+        Title
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        <a href="#">Some fake link</a>
+      </p>
+    </div>
+  </div>
+  <div class="child">
+    <div class="card">
+
+      <img src="https://i.imgur.com/D1p6UX3.jpg" width="240" height="240"><br>
+      <p class="a-title">
+        Title
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        <a href="#">Some fake link</a>
+      </p>
+    </div>
+  </div>
+  <div class="child">
+    <div class="card">
+
+      <img src="https://i.imgur.com/D1p6UX3.jpg" width="240" height="240"><br>
+      <p class="a-title">
+        Title
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        Some example text that I'm too lazy to ipsum right now.
+      </p>
+      <p>
+        <a href="#">Some fake link</a>
+      </p>
+    </div>
+  </div>
+</div>
